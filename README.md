@@ -2,7 +2,8 @@
 
 Key Skills: Python, TensorFlow/Keras, OpenCV, NumPy, Scikit-learn, Transfer Learning, ResNet50, MobileNetV2, Image Augmentation, Computer Vision
 
-Developed a 6-class garbage waste classification system (Cardboard, Glass, Metal, Paper, Plastic, and Trash) using Computer Vision and Deep Learning to support automated waste segregation.
+* Developed a 6-class garbage waste classification system (Cardboard, Glass, Metal, Paper, Plastic, and Trash) using Computer Vision and Deep Learning to support automated waste segregation.
+
 Performed image preprocessing using OpenCV, including resizing, RGB conversion, normalization, and train/validation/test data splitting with Scikit-learn.
 Addressed class imbalance by generating synthetic samples for the minority Trash class using ImageDataGenerator with rotation, zoom, translation, brightness adjustment, and horizontal flipping.
 Built and evaluated a custom CNN model and benchmarked it against transfer learning approaches using ResNet50 and MobileNetV2 pre-trained on ImageNet.
